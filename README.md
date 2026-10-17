@@ -29,6 +29,10 @@ I built the auth-service: a Flask API with JWT, RBAC middleware, AES-256-GCM enc
 
 I'm also developing a solo game in Godot with AI-assisted coding (Claude Code).
 
+## Tabletop RPG design
+
+**[Ace's Guide to Making Jobs & Missions](https://github.com/AceMageddon/ttrpg-design)**: a GM guide for use with Cyberpunk RED, covering campaign arcs, encounter balancing, Netrunner opposition, NPC writing and a Promotions system for scaling boss fights. [Read the PDF](https://github.com/AceMageddon/ttrpg-design/blob/main/cyberpunk-red/jobs-and-missions/Aces-Guide-to-Making-Jobs-and-Missions.pdf).
+
 ## Background
 
 - **MSc, Software Development and Engineering**, Ca' Foscari University of Venice (2025 – present)
